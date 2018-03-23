@@ -1,0 +1,41 @@
+{
+    "footer": {
+        "contact": "Contact us",
+        "intro":"Introduction",
+        "follow":"Follow Us"
+    },
+    "link":{
+        "more":"View more +",
+        "collapse":"Collapse -",
+        "home":"Home",
+        "register":"Register",
+        "download":"Download"
+    },
+    "news":{
+        "popular":"Popular News",
+        "related":"Related News"
+    },
+    "recruitment":{
+        "info":"Recruitment Information",
+        "sign":"Sign Recruitment",
+        "other":"Other Recruitment",
+        "title":"Recruitment"
+    },
+    "product":{
+        "hot":"HOT Products",
+        "category":"Product Catalog"
+    },
+    "contact":{
+        "title":"Contact Information"
+    },
+    "dltitle":"Sales Support",
+    "tdtitle":"Contact Information",
+    "downloadText":"Download form register",
+    "input":{
+        "fullname": "Full name",
+        "email": "Email address",
+        "phone": "Phone number",
+        "addr": "Address",
+        "search": "Search here..."
+    }
+}
